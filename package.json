@@ -1,0 +1,12 @@
+{
+  "name": "date-normalizer",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "luxon": "^3.4.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
